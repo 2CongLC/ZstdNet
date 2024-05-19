@@ -1,0 +1,12 @@
+D:\Source VBNet_C#\GitHub\ZstdNet\ZstdNet\bin\Debug\netstandard2.1\x64\libzstd.dll
+D:\Source VBNet_C#\GitHub\ZstdNet\ZstdNet\bin\Debug\netstandard2.1\x86\libzstd.dll
+D:\Source VBNet_C#\GitHub\ZstdNet\ZstdNet\bin\Debug\netstandard2.1\ZstdNet.deps.json
+D:\Source VBNet_C#\GitHub\ZstdNet\ZstdNet\bin\Debug\netstandard2.1\ZstdNet.dll
+D:\Source VBNet_C#\GitHub\ZstdNet\ZstdNet\bin\Debug\netstandard2.1\ZstdNet.pdb
+D:\Source VBNet_C#\GitHub\ZstdNet\ZstdNet\obj\Debug\netstandard2.1\ZstdNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source VBNet_C#\GitHub\ZstdNet\ZstdNet\obj\Debug\netstandard2.1\ZstdNet.AssemblyInfoInputs.cache
+D:\Source VBNet_C#\GitHub\ZstdNet\ZstdNet\obj\Debug\netstandard2.1\ZstdNet.AssemblyInfo.cs
+D:\Source VBNet_C#\GitHub\ZstdNet\ZstdNet\obj\Debug\netstandard2.1\ZstdNet.csproj.CoreCompileInputs.cache
+D:\Source VBNet_C#\GitHub\ZstdNet\ZstdNet\obj\Debug\netstandard2.1\ZstdNet.sourcelink.json
+D:\Source VBNet_C#\GitHub\ZstdNet\ZstdNet\obj\Debug\netstandard2.1\ZstdNet.dll
+D:\Source VBNet_C#\GitHub\ZstdNet\ZstdNet\obj\Debug\netstandard2.1\ZstdNet.pdb
